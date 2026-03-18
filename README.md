@@ -1,6 +1,6 @@
 # 🏛️ Air University Lost & Found Intelligence System
 
-[![Project Demo]
+[Project Demo]
 
 https://github.com/user-attachments/assets/81a44b32-3cc1-4e25-b36b-b72452dbb059
 
