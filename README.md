@@ -1,12 +1,16 @@
 # 🏛️ Air University Lost & Found Intelligence System
 
-[![Project Demo](https://github.com/askSayyam/Lost-Found-System-For-Air-University/blob/master/Lost%20%26%20Found.mp4)
+[![Project Demo]
+
+https://github.com/user-attachments/assets/81a44b32-3cc1-4e25-b36b-b72452dbb059
+
 *(Click the image above to watch the full system demo)*
 
 Losing an item on a busy campus shouldn't mean it's gone forever. This project is a fully automated, AI-enhanced dashboard designed specifically for the Air University community to intelligently connect lost items with found reports. 
 
 ## 🧠 The "Graded Match" Engine
-Instead of relying on basic keyword searches, the backend utilizes custom data structures and AI to evaluate matches across four core pillars:
+Instead of relying on basic keyword searches, the backend utilizes custom data structures and AI to evaluate matches across four core pillars
+
 
 1. **Distance Proximity (Graphs):** Uses **Dijkstra's Algorithm** to calculate the physical distance between where an item was lost and found on the campus map.
 2. **Attribute Alignment (Tries):** Instant, optimized matching for exact primary characteristics like Name and Color.
